@@ -1,7 +1,7 @@
-baseURL = "https://example.com/"
-languageCode = "en-us"
+baseURL = "https://obsidienne.github.io/resume/"
+languageCode = "fr"
 theme = "almeida-cv"
-title = "Example - CV"
+title = "Claudio Bernardes - CV"
 
 [params]
 colorDark = "#666"
