@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Claudio Bernardes - CV</title>
-    <link>https://obsidienne.github.io/resume/</link>
+    <link>https://resume.bernardes.eu/</link>
     <description>Recent content on Claudio Bernardes - CV</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language><atom:link href="https://obsidienne.github.io/resume/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr</language><atom:link href="https://resume.bernardes.eu/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
