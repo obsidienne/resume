@@ -1,4 +1,4 @@
-baseURL = "https://obsidienne.github.io/resume/"
+baseURL = "https://resume.bernardes.eu/"
 languageCode = "fr"
 theme = "almeida-cv"
 title = "Claudio Bernardes - CV"
