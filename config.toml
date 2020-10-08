@@ -2,6 +2,7 @@ baseURL = "https://resume.bernardes.eu/"
 languageCode = "fr"
 theme = "almeida-cv"
 title = "Claudio Bernardes - CV"
+DefaultContentLanguage = "fr"
 
 [params]
 colorDark = "#666"
