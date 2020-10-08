@@ -12,7 +12,17 @@ BasicInfo:
     - Icon: fas fa-map-marker-alt
       Info: France
 
-Profile: 14 ans d'expérience dans le domaine du "Private Equity", j'ai piloté l'intégration d'outils business structurants (Salesforce, Unit4 Fi, Evolan Report, DocuSign) mais aussi d'outils d'ubanisation IT (Talend, Docuware, Sharepoint). <br/><br/>Curieux et soucieux de la satisfaction client, j'ai l'esprit d'équipe.
+Profile: >-
+  14 ans d'expérience dans le domaine du "Private Equity", j'ai piloté l'intégration d'outils business structurants (Salesforce, Unit4 Fi, Evolan Report, DocuSign) mais aussi d'outils d'ubanisation IT (Talend, Docuware, Sharepoint). <br/><br/>Curieux et soucieux de la satisfaction client, j'ai l'esprit d'équipe.
+  
+  grande connaissance métier, rôle de MOA,  capacité à rédiger des spécifications fonctionnelles 
+  études comparatives de solutions  RFC
+
+  Capacité à coordonner et suivre les fournisseurs
+
+  encadrement d'intervenants extérieurs,  une équipe de dev.   Encadrement d'une ressource sous ma
+  responsabilité
+
 
 Experience:
   - Employer: Unigrains
@@ -23,13 +33,19 @@ Experience:
         Details:
           - Correspondant métier sur le périmètre Finance, Investissement, Documentation et Ressources Humaines
           - Configuration et adaptation de Salesforce au besoin spécificité des lignes métiers
-          - Signature électronique
           - Urbanisation et Interfaçage inter applicatifs
-          - Configuration et Formation sur les outils DAF
+          - Configuration et Formation sur les outils Finance
           - Interlocuteur déclaration SURFI, Asset Encumbrance, Centralisation des risques
           - Modélisation et automatisation de la mécanique d'évaluation de nos participations
-          - Modélisation de Datamart métier
-        Badges: ['Unit4 Financial', 'Docuware', 'Talend', 'Kyriba', 'o365', 'Salesforce', 'Evolan Report', 'Six Telekurs', 'PowerBI', 'eFront', 'Kyriba']
+        Badges: ['Unit4 Fi', 'Kyriba', 'Salesforce', 'o365', 'Evolan Report', 'Six Telekurs', 'Docuware', 'eFront','Talend']
+      - Title: Chargé de Projets
+        Date: Déc 2009
+        Details:
+          - Signature électronique Analyse du besoin, recherche de solution, implémentation, formation 
+          - Outil de Veille
+          - Changement outil Comptable
+          - Encadrement
+        Badges: ['Unit4 Fi', 'Kyriba', 'Salesforce', 'o365']    
   - Employer: 7 lieues Technologies
     Place: Courbevoie, FR
     Positions:
