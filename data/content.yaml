@@ -5,12 +5,14 @@ BasicInfo:
   Contacts:
     - Icon: fas fa-phone
       Info: +33 6 50 42 29 53
-    - Icon: fas fa-envelope
-      Info: bernardes.claudio@gmail.com
-    - Icon: fas fa-globe
-      Info: https://bernardes.eu
     - Icon: fas fa-map-marker-alt
       Info: France
+  Websites:
+    - Icon: fas fa-globe
+      Info: https://www.bernardes.eu
+  Mailtos:
+    - Icon: fas fa-envelope
+      Info: bernardes.claudio@gmail.com
 
 Profile: >-
   14 ans d'expérience dans le domaine du Private Equity, j'ai piloté l'intégration d'outils business structurants (Salesforce, Unit4 Fi, Evolan Report, DocuSign) mais aussi d'ubanisation (Talend, Docuware, o365).
@@ -19,7 +21,7 @@ Profile: >-
   <br/><br/>
   Curieux et soucieux de la satisfaction client, j'ai l'esprit d'équipe.
   <br/><br/>
-  J'ai une vaste expérience dans la gestion de projets informatiques, structurant et stratégique, y compris l'encadrement d'équipe et le développement dans un cadre Agile.
+  J'ai une vaste expérience dans la gestion de projets informatiques et stratégiques, y compris l'encadrement d'équipe et le développement dans un cadre Agile.
 Experience:
   - Employer: Unigrains
     Place: Paris, FR
@@ -45,7 +47,7 @@ Experience:
   - Employer: 7 lieues Technologies
     Place: Courbevoie, FR
     Positions:
-      - Title: CFO
+      - Title: CTO
         Date: Jan 2018 - Mar 2019
         Details:
           - Choix des langages, framework et composants
@@ -101,7 +103,7 @@ Skills:
 Languages:
   - Name: Français
     Level: Natif
-  - Name: English
+  - Name: Anglais
     Level: TOEIC 750
 
 Diplomas:
