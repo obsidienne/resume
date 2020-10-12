@@ -15,7 +15,7 @@ BasicInfo:
       Info: bernardes.claudio@gmail.com
 
 Profile: >-
-  14 ans d'expérience dans le domaine du Private Equity, j'ai piloté l'intégration d'outils business structurants (Salesforce, Unit4 Fi, Evolan Report, DocuSign) mais aussi d'ubanisation (Talend, Docuware, o365).
+  14 ans d'expérience dans le domaine du Private Equity, j'ai piloté l'intégration d'outils business structurants (Salesforce, Unit4 Fi, Evolan Report, DocuSign) mais aussi d'urbanisation (Talend, Docuware, o365).
   <br />
   J'ai une grande connaissance métier dans les domaines du Private Equity, des déclaratifs bancaires, des outils de CRM et des outils de reporting.
   <br/><br/>
@@ -32,9 +32,9 @@ Experience:
           - Correspondant métier sur le périmètre Finance, Investissement, Documentation et Ressources Humaines
           - Configuration et adaptation de Salesforce aux besoins des lignes métiers
           - Configuration et Formation sur les outils Finance
-          - Interlocuteur déclaration SURFI, Asset Encumbrance, Centralisation des risques
+          - Interlocuteur déclaration SURFI, Asset Encumbrance et Centralisation des risques
           - Modélisation et automatisation de la mécanique d'évaluation de nos participations
-          - Urbanisation et Interfaçage inter applicatifs
+          - Urbanisation et Interfaces inter-applicatives
         Badges: ['Unit4 Fi', 'Kyriba', 'Salesforce', 'o365', 'Evolan Report', 'Six Telekurs', 'eFront','Talend']
       - Title: Chargé de Projets
         Date: Déc 2009
@@ -71,7 +71,7 @@ Education:
     Date: 2001 - 2006
 
 Skills:
-  - Family: Programming
+  - Family: Programmation
     Items:
       - Python
       - C#
@@ -89,13 +89,14 @@ Skills:
       - RoR
       - RASA
       - CamundaBPM
-  - Family: Developer Tools
+  - Family: Outils
     Items:
       - Git
       - Docker
       - GitHub Actions
       - Jira
-  - Family: Misc
+      - VS Code
+  - Family: Divers
     Items:
       - Excel
       - SQL
