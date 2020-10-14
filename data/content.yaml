@@ -65,11 +65,7 @@ Experience:
           - Création d'un outil métier C# permettant d'automatiser les opérations de fonds. Outil connecté à FrontVenture de la société eFront
           - Management de 3 stagiaires
         Badges: ['eFront', 'C#', 'Excel']
-
-Education:
-  - Course: EPITECH
-    Date: 2001 - 2006
-
+        
 Skills:
   - Family: Programmation
     Items:
