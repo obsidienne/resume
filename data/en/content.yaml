@@ -67,7 +67,7 @@ Experience:
         Badges: ['eFront', 'C#', 'Excel']
         
 Skills:
-  - Family: Programmation
+  - Family: Programming
     Items:
       - Python
       - C#
@@ -85,14 +85,14 @@ Skills:
       - RoR
       - RASA
       - CamundaBPM
-  - Family: Outils
+  - Family: Tools
     Items:
       - Git
       - Docker
       - GitHub Actions
       - Jira
       - VS Code
-  - Family: Divers
+  - Family: Misc
     Items:
       - Excel
       - SQL
