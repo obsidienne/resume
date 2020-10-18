@@ -1,0 +1,111 @@
+BasicInfo:
+  FirstName: Claudio
+  LastName: Bernardes
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +33 6 50 42 29 53
+    - Icon: fas fa-map-marker-alt
+      Info: France
+  Websites:
+    - Icon: fas fa-globe
+      Info: https://www.bernardes.eu
+  Mailtos:
+    - Icon: fas fa-envelope
+      Info: bernardes.claudio@gmail.com
+
+Profile: >-
+  14 ans d'expérience dans le domaine du Private Equity, j'ai piloté l'intégration d'outils business structurants (Salesforce, Unit4 Fi, Evolan Report, DocuSign) mais aussi d'urbanisation (Talend, Docuware, o365).
+  <br />
+  J'ai une grande connaissance métier dans les domaines du Private Equity, des déclaratifs bancaires, des outils de CRM et des outils de reporting.
+  <br/><br/>
+  Curieux et soucieux de la satisfaction client, j'ai l'esprit d'équipe.
+  <br/><br/>
+  J'ai une vaste expérience dans la gestion de projets informatiques et stratégiques, y compris l'encadrement d'équipe et le développement dans un cadre Agile.
+Experience:
+  - Employer: Unigrains
+    Place: Paris, FR
+    Positions:
+      - Title: Responsable Applicatifs Métiers
+        Date: Déc 2009
+        Details:
+          - Correspondant business sur le périmètre Finance, Investissement, Documentation et Ressources Humaines
+          - Configuration et adaptation de Salesforce aux besoins des lignes métiers
+          - Configuration et Formation sur les outils Finance
+          - Interlocuteur déclaration SURFI, Asset Encumbrance et Centralisation des risques
+          - Modélisation et automatisation de la mécanique d'évaluation de nos participations
+          - Urbanisation et Interfaces inter-applicatives
+        Badges: ['Unit4 Fi', 'Kyriba', 'Salesforce', 'o365', 'Evolan Report', 'Six Telekurs', 'eFront','Talend']
+      - Title: Chargé de Projets
+        Date: Déc 2009
+        Details:
+          - <b>Signature électronique</b> Rédaction du besoin, Recherche et Analyse des solutions, implémentation, formation 
+          - <b>Veille stratégique</b> Analyse des besoins, mise en concurrence et chiffrage
+          - <b>Outil Comptable</b> Analyse du marché, rédaction d'un cachier des charges et mise en concurrence
+          - <b>CRM</b> Changement de prestataire et pilotage de l'adaptation de Salesforce à la ligne métier investissement
+        Badges: ['Unit4 Fi', 'Kyriba', 'Salesforce', 'o365', 'docuware']    
+  - Employer: 7 lieues Technologies
+    Place: Courbevoie, FR
+    Positions:
+      - Title: CTO
+        Date: Jan 2018 - Mar 2019
+        Details:
+          - Choix des langages, framework et composants
+          - Réalisation d'un POC traversant l'ensemble de la pile applicative
+          - Découpage et suivi des sprints
+          - Recrutement
+        Badges: ['Python', 'Phoenix', 'Camunda', 'BPM', 'RASA', 'NLU/NLP', 'RabbitMQ', 'Java']
+  - Employer: Altran France
+    Place: Paris, FR
+    Positions:
+      - Title: Consultant - Ardian
+        Date: Sep 2006 - Déc 2009
+        Details:
+          - Analyse de documents juridiques (LP principalement) afin de modéliser sous Excel puis d'automatiser les différentes opérations de fonds
+          - Création d'un outil métier C# permettant d'automatiser les opérations de fonds. Outil connecté à FrontVenture de la société eFront
+          - Management de 3 stagiaires
+        Badges: ['eFront', 'C#', 'Excel']
+        
+Skills:
+  - Family: Programmation
+    Items:
+      - Python
+      - C#
+      - Elixir
+  - Family: Web
+    Items:
+      - HTML
+      - Javascript
+      - CSS/SASS/Tailwindcss
+      - Webpack
+  - Family: Frameworks
+    Items:
+      - Phoenix
+      - Flask
+      - RoR
+      - RASA
+      - CamundaBPM
+  - Family: Outils
+    Items:
+      - Git
+      - Docker
+      - GitHub Actions
+      - Jira
+      - VS Code
+  - Family: Divers
+    Items:
+      - Excel
+      - SQL
+
+Languages:
+  - Name: Français
+    Level: Natif
+  - Name: Anglais
+    Level: TOEIC 750
+
+Diplomas:
+  - EPITECH (2006)
+    
+Interests:
+  - Danse
+  - Musique
