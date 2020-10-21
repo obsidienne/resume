@@ -15,34 +15,33 @@ BasicInfo:
       Info: bernardes.claudio@gmail.com
 
 Profile: >-
-  14 ans d'expérience dans le domaine du Private Equity, j'ai piloté l'intégration d'outils business structurants (Salesforce, Unit4 Fi, Evolan Report, DocuSign) mais aussi d'urbanisation (Talend, Docuware, o365).
+  14 years of experience in Private Equity, I have managed structuring business applications (Salesforce, Unit4 Fi, Evolan Report and DocuSign) but also urbanization projects (Talend, Docuware and o365).
   <br />
-  J'ai une grande connaissance métier dans les domaines du Private Equity, des déclaratifs bancaires, des outils de CRM et des outils de reporting.
+  I have extensive business knowledge in Private Equity, Banking Regulation, CRM and reporting tools.
   <br/><br/>
-  Curieux et soucieux de la satisfaction client, j'ai l'esprit d'équipe.
+  Curious and concerned with customer success, I have team spirit.
   <br/><br/>
-  J'ai une vaste expérience dans la gestion de projets informatiques et stratégiques, y compris l'encadrement d'équipe et le développement dans un cadre Agile.
+  I have a vast experience in managing IT and strategic projects, including team coaching and agile development.
 Experience:
   - Employer: Unigrains
     Place: Paris, FR
     Positions:
       - Title: Responsable Applicatifs Métiers
-        Date: Déc 2009
+        Date: Dec 2009
         Details:
-          - Correspondant business sur le périmètre Finance, Investissement, Documentation et Ressources Humaines
-          - Configuration et adaptation de Salesforce aux besoins des lignes métiers
-          - Configuration et Formation sur les outils Finance
-          - Interlocuteur déclaration SURFI, Asset Encumbrance et Centralisation des risques
-          - Modélisation et automatisation de la mécanique d'évaluation de nos participations
-          - Urbanisation et Interfaces inter-applicatives
+          - Finance, Investment, Documentation and Human Resources scope correspondant
+          - Adapt Salesforce to the Investment business line needs
+          - Configuration and Training on Finance tools, e-signature and CRM
+          - SURFI, Asset Encumbrance and Centralisation des Risques contact
+          - Urbanization
         Badges: ['Unit4 Fi', 'Kyriba', 'Salesforce', 'o365', 'Evolan Report', 'Six Telekurs', 'eFront','Talend']
-      - Title: Chargé de Projets
-        Date: Déc 2009
+      - Title: Project manager
+        Date: Dec 2009
         Details:
-          - <b>Signature électronique</b> Rédaction du besoin, Recherche et Analyse des solutions, implémentation, formation 
-          - <b>Veille stratégique</b> Analyse des besoins, mise en concurrence et chiffrage
-          - <b>Outil Comptable</b> Analyse du marché, rédaction d'un cachier des charges et mise en concurrence
-          - <b>CRM</b> Changement de prestataire et pilotage de l'adaptation de Salesforce à la ligne métier investissement
+          - <b>e-signature</b> Specifications, Solution research, Implementation, Training 
+          - <b>Strategic watch</b> Specifications, Competitive bidding and costing
+          - <b>Accounting tool</b> Specifications, Competitive bidding
+          - <b>CRM</b> Salesforce configuration to the investment business line
         Badges: ['Unit4 Fi', 'Kyriba', 'Salesforce', 'o365', 'docuware']    
   - Employer: 7 lieues Technologies
     Place: Courbevoie, FR
@@ -50,20 +49,20 @@ Experience:
       - Title: CTO
         Date: Jan 2018 - Mar 2019
         Details:
-          - Choix des langages, framework et composants
-          - Réalisation d'un POC traversant l'ensemble de la pile applicative
-          - Découpage et suivi des sprints
-          - Recrutement
+          - Programming language and frameworks selection
+          - POC creation through the entire application stack
+          - Agile project management
+          - Recruiting
         Badges: ['Python', 'Phoenix', 'Camunda', 'BPM', 'RASA', 'NLU/NLP', 'RabbitMQ', 'Java']
   - Employer: Altran France
     Place: Paris, FR
     Positions:
-      - Title: Consultant - Ardian
-        Date: Sep 2006 - Déc 2009
+      - Title: Business Analyst - Ardian
+        Date: Sep 2006 - Dec 2009
         Details:
-          - Analyse de documents juridiques (LP principalement) afin de modéliser sous Excel puis d'automatiser les différentes opérations de fonds
-          - Création d'un outil métier C# permettant d'automatiser les opérations de fonds. Outil connecté à FrontVenture de la société eFront
-          - Management de 3 stagiaires
+          - Legal documents analysis in order to model in Excel and then automate the various fund transactions
+          - Development in C# of a business tool automating fund operations. Tool connected to FrontVenture from eFront 
+          - Management of 3 internship
         Badges: ['eFront', 'C#', 'Excel']
         
 Skills:
